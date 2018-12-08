@@ -1,0 +1,7 @@
+spring:
+  messages:
+    basename: i18n.login
+  thymeleaf:
+    cache: false #禁用缓存
+  mvc:
+    date-format: yyyy-MM-dd
